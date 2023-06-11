@@ -89,8 +89,7 @@ def remove_punc_stopword(text):
 ```
 
 #### Author
-Svitlana Kramar
-​
+Svitlana Kramar </br>
 Copyright © 2020 IBM Corporation. All rights reserved.
-<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
+
     
